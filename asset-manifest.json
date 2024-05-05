@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ottermap_OL_Assignment/static/css/main.19dbb6bd.css",
+    "main.js": "/Ottermap_OL_Assignment/static/js/main.8a0a2f81.js",
+    "static/js/453.17569d22.chunk.js": "/Ottermap_OL_Assignment/static/js/453.17569d22.chunk.js",
+    "index.html": "/Ottermap_OL_Assignment/index.html",
+    "main.19dbb6bd.css.map": "/Ottermap_OL_Assignment/static/css/main.19dbb6bd.css.map",
+    "main.8a0a2f81.js.map": "/Ottermap_OL_Assignment/static/js/main.8a0a2f81.js.map",
+    "453.17569d22.chunk.js.map": "/Ottermap_OL_Assignment/static/js/453.17569d22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19dbb6bd.css",
+    "static/js/main.8a0a2f81.js"
+  ]
+}
